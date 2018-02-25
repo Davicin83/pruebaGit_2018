@@ -1,2 +1,9 @@
+Modificación de la buena!!!
 
-Hola! La verdad que no tengo muy claro que mierdas estoy haciendo
+Empiezo a comprender como funciona esto de debian, la sentencia "nano", el funcionamiento 
+por comandos y el uso de github. Aunque esto último es todavía un poco lioso.
+
+Voy a ver si he sido capaz de subir esta modificación del fichero correctamente sin 
+mirar los apuntes.
+
+Un saludin
