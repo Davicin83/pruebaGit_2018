@@ -1,2 +1,9 @@
-Nose porque pollas aparece el listado tb, pero lo mismo sale esto bien
-asi que vamos a probar
+Prueba 2:
+
+He reiniciado la máquina virtual y estoy probando a modificar y subir datos desde el
+principio sin ayuda de los apuntes.
+
+Creo que lo puedo hacer todo, pero no tengo claro como añadir la etiqueta de modificación 
+desde el comando.
+
+Para la siguiente prueba lo intento.
